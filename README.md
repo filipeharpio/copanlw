@@ -31,8 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa - NLW é um projeto que mostra os jogos da Copa de 2022.
-[Clique aqui](https://filipeharpio.github.io/copanlw/) para acessar.
+<p>O Calendário da Copa - NLW é um projeto que mostra os jogos da Copa de 2022.</p>
+<p>Depois de já entender o básico do HTML e CSS, foi aqui que dei meus primeiros passos com JavaScript.</p>
+<p>[Clique aqui](https://filipeharpio.github.io/copanlw/) para acessar.</p>
 
 ## 🔖 Layout
 
